@@ -40,6 +40,8 @@ Go to any webpage or your NotebookLM notes. Use your mouse to highlight the text
    
 
 5. Frequently Asked Questions (FAQ)
+
+   
    Why didn't the "Open it in Canvas" button get clicked automatically?
    
      The ability to automatically open the visual Canvas view depends entirely on whether Gemini's interface provides that specific button in its response. Our extension will always look for it, but sometimes Gemini generates the text-based canvas without offering the button. In this case, our extension has worked correctly by providing the structured text.
